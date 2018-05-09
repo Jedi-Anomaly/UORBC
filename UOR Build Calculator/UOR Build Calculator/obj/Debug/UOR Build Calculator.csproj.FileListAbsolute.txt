@@ -1,0 +1,27 @@
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.exe.config
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.exe
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.pdb
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.csprojResolveAssemblyReference.cache
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR_Build_Calculator.Form1.resources
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR_Build_Calculator.Properties.Resources.resources
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.csproj.GenerateResource.Cache
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.exe
+C:\Users\phillidw\Desktop\lunch_break_work\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.pdb
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.exe.config
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.exe
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.pdb
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.csprojResolveAssemblyReference.cache
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR_Build_Calculator.Form1.resources
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR_Build_Calculator.Properties.Resources.resources
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.csproj.GenerateResource.Cache
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.exe
+C:\Users\vomster_admin\Documents\Visual Studio 2015\Projects\UORBC\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.pdb
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.exe.config
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.pdb
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.exe
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Debug\UOR Build Calculator.pdb
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR_Build_Calculator.Form1.resources
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR_Build_Calculator.Properties.Resources.resources
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.csproj.GenerateResource.Cache
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.exe
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Debug\UOR Build Calculator.csprojResolveAssemblyReference.cache

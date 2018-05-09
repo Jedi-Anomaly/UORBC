@@ -1,0 +1,8 @@
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Release\UOR Build Calculator.exe.config
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Release\UOR Build Calculator.exe
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\bin\Release\UOR Build Calculator.pdb
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Release\UOR_Build_Calculator.Form1.resources
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Release\UOR_Build_Calculator.Properties.Resources.resources
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Release\UOR Build Calculator.csproj.GenerateResource.Cache
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Release\UOR Build Calculator.exe
+C:\Users\phillidw\Desktop\lunch_break_work\b_edition_UORBC\UORBC_b_edition\UORBC\UOR Build Calculator\UOR Build Calculator\obj\Release\UOR Build Calculator.pdb
