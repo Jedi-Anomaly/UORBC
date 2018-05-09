@@ -1,6 +1,5 @@
 # UORBC
 UO Renaissance Build Calculator 
-developed by: Dathan Phillips
 
 # Skill Management:
 The purpose of UORBC is to provide players with the ability to plan their character, while providing useful information about their selected set of skills and stats that otherwise would have to be calculated manually, or seen in-game once their character has completed training. 
